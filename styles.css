@@ -1,0 +1,23 @@
+p {
+    color: rgb(8, 8, 245);
+}
+
+img {
+    width: 500;
+}
+
+body {
+    background-color: rgb(255, 237, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1, 6;
+}
+
+h1 {
+    color: rgba(20, 14, 134, 0.825);
+    font-size: 1.7rem;
+}
